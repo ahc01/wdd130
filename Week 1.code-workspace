@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"name": "Week 1",
+			"path": "../../CSE 110 - Intro to Programming-Python/Week 1"
+		},
+		{
+			"name": "Week 2",
+			"path": "../../CSE 110 - Intro to Programming-Python/Week 2"
+		},
+		{
+			"name": "Week 3",
+			"path": "../../CSE 110 - Intro to Programming-Python/Week 3"
+		},
+		{
+			"path": "../../CSE 110 - Intro to Programming-Python/Week 4"
+		},
+		{
+			"path": "../../CSE 110 - Intro to Programming-Python/Week 5"
+		},
+		{
+			"path": "../../CSE 110 - Intro to Programming-Python/Week 6"
+		},
+		{
+			"path": "../../CSE 110 - Intro to Programming-Python/Week 7"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wdd130"
+	}
+}
